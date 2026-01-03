@@ -1,0 +1,12 @@
+com\mycompany\ujian_rpl\controller\BukuController.class
+com\mycompany\ujian_rpl\view\BukuView$1.class
+com\mycompany\ujian_rpl\view\BukuView$1GradientPanel.class
+com\mycompany\ujian_rpl\view\BukuView$3.class
+com\mycompany\ujian_rpl\BukuApp.class
+com\mycompany\ujian_rpl\model\ModelBuku.class
+com\mycompany\ujian_rpl\repository\BukuRepository.class
+com\mycompany\ujian_rpl\model\ModelTabelBuku.class
+com\mycompany\ujian_rpl\view\BukuView$4.class
+com\mycompany\ujian_rpl\view\BukuView$2.class
+com\mycompany\ujian_rpl\service\BukuService.class
+com\mycompany\ujian_rpl\view\BukuView.class
