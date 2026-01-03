@@ -1,4 +1,4 @@
-""Tema Aplikasi: Pengelolaan Koleksi Buku Komik / Novel**
+**Tema Aplikasi: Pengelolaan Koleksi Buku Komik / Novel**
 
 **Kelompok:**
 - Indra Made Prima Nugraha (50422710)
